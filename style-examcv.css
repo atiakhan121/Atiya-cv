@@ -1,0 +1,158 @@
+*{
+    margin:0;
+    padding:0
+
+}
+.cv{
+    width:900px;
+    height:1200px;
+    background-color:antiquewhite;
+    margin:50px auto 50px auto;
+}
+
+.cv-area{
+    padding:80px;
+}
+.cv-header{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.text area{
+    margin-top: 20px;
+    height:140px;
+    
+    
+}
+.software{
+    color:darkolivegreen
+}
+
+.image-line{
+    padding:20%;
+    padding-bottom:40%; 
+
+    
+    
+}
+.img-margin{
+    margin-top:0%;
+}
+
+
+
+
+
+
+
+
+.profile-img{
+    width:150px;
+    height:155px;
+}
+
+.about-position{
+
+    margin-top: 20px;
+    height:140px;
+    
+
+}
+ .about-me{
+    padding:10px;
+   
+    
+   }
+.color{
+    color:darkolivegreen
+}
+.padding{
+    
+    margin-top:2%
+}
+
+.education{
+    color:darkolivegreen;
+}
+.table-position{
+    border: 1 px solid black;
+    border-collapse: collapse;
+    margin-top:2%;
+    width:100%;
+    text-align:center;
+
+}
+
+.work-position{
+    margin-top:3%;
+    
+}
+.work
+{color:darkolivegreen;}
+
+
+
+.senior{
+
+    margin-top:3%;
+    margin-left:2%
+}
+.march{
+    color:darkolivegreen;
+}
+
+.ul{
+    margin-top: 1.5%;
+    margin-left:2%
+}
+
+
+.relevent-skill{
+    margin-top: 3%;
+}
+
+.relevent{
+    color:darkolivegreen;
+}
+
+.mr-training{
+    margin-top: 3%;
+}
+
+
+.training{
+    color:darkolivegreen;
+} 
+
+.porfolio{
+    margin-top: 3%;
+}
+.pro-color{
+    color:darkolivegreen;
+}
+
+.sign{
+    margin-left:80%;
+    margin-top: 3%;
+}
+
+.hr{
+    width:70%
+}
+
+.margin{
+    margin-left: 2%;
+    margin-top:2%;
+}
+
+.margin2{
+    margin-left: 2%;
+    margin-top:2%;
+}
+
+
+.margin3{
+    margin-left: 2%; 
+    margin-top:2%;
+}
